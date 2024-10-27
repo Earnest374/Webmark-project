@@ -1,0 +1,5 @@
+Student name: Lwanga Earnest
+Student number: 
+Student class: IT1C
+GitHub Repository: your github repository URL
+GitHub Pages URL: your github pages URL
